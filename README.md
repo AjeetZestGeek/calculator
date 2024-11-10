@@ -18,17 +18,17 @@ A simple REST API built with Flask that performs basic arithmetic operations suc
 pip install Flask
 ```
 # Installation
-* **1. Clone the Repository:**
+**1. Clone the Repository:**
 ```bash 
 git clone <repository_url>
 cd <repository_folder>
 ```
-* **2. Install Requirements:** Install Flask if not already installed:
+**2. Install Requirements:** Install Flask if not already installed:
 
 ```bash
 pip install Flask
 ```
-* **3. Run the Application:** Start the Flask server:
+**3. Run the Application:** Start the Flask server:
 
 ```bash
 python <filename>.py
